@@ -1,4 +1,5 @@
 {
     "api": "https://tn63server.azurewebsites.net/",
-    "supportNumber": "+919486180175"
+    "supportNumber": "+919486180175",
+    "S3Endpoint": "https://d37nnsy4i64gio.cloudfront.net"
 }
